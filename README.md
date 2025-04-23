@@ -1,6 +1,9 @@
 # JSGame
 Javascript game. Win Condition: Hatch 30 larvae successfully.  Loss Condition: Lose more than 5 larvae to enemies.
+
+
 🎮 Gameplay Overview:
+
 🐂 Player (The Bull): Controls are based on mouse movement. The bull follows the cursor and can push away obstacles, protect eggs, and defend hatchlings.
 
 🪨 Obstacles: Randomly placed in the world. The player must navigate around or push them to clear the way for eggs and hatchlings.
